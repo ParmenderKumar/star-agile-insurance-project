@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
       - name: insurance-mvn-container
-        image: parmenderkumar/insurancepro1:latest
+        image: parmenderkumar/insurancepro:latest
         ports:
         - containerPort: 8081
 ---
